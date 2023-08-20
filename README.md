@@ -1,6 +1,6 @@
 # Bonanza-G36TC
 Modified from https://flightsim.to/file/32367/beechcraft-bonanza-g36tn
-That modification includes all or more of these:
+My modification includes all these and more:
 - Changes to panel.xml
 - MFD
 - Added Engine hours
